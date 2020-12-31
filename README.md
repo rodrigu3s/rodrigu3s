@@ -1,4 +1,4 @@
-### Hi there 👋
+### João Rodrigues 👨🏻‍💻
 
 <!--
 **rodrigu3s/rodrigu3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
