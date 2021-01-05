@@ -1,5 +1,6 @@
 # João Rodrigues 👨🏻‍💻
 
+![Github visitors](https://komarev.com/ghpvc/?username=rodrigu3s&color=7159c0&style=flat-square)
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodrigu3s)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-rodrigu3s/)](https://www.linkedin.com/in/joao-rodrigu3s/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://https://whats.link/joaorodrigu3s)](https://whats.link/joaorodrigu3s)
