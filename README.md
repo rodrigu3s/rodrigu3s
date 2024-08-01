@@ -4,7 +4,7 @@
 
 ## 👋Olá!
 
-Meu nome é João Rodrigues, Bacharelando em Ciência da Computação
+Meu nome é João Rodrigues, Formado em Ciência da Computação
 
 - 🧑‍💼 Desenvolvedor Front-End 
 - ❤️Angular 💛JavaScript!
